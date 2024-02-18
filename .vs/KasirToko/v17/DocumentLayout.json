@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\kasirtoko\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|solutionrelative:kasirtoko\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\kasirtoko\\riwayattransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|solutionrelative:kasirtoko\\riwayattransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\kasirtoko\\produk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|solutionrelative:kasirtoko\\produk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|c:\\users\\mybook pro k7v\\source\\repos\\kasirtoko\\kasirtoko\\mainmenu.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|solutionrelative:kasirtoko\\mainmenu.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|c:\\users\\mybook pro k7v\\source\\repos\\kasirtoko\\kasirtoko\\mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|solutionrelative:kasirtoko\\mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|c:\\users\\mybook pro k7v\\source\\repos\\kasirtoko\\kasirtoko\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|solutionrelative:kasirtoko\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\kasirtoko\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|solutionrelative:kasirtoko\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|c:\\users\\mybook pro k7v\\source\\repos\\kasirtoko\\kasirtoko\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|solutionrelative:kasirtoko\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|c:\\users\\mybook pro k7v\\source\\repos\\kasirtoko\\kasirtoko\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|solutionrelative:kasirtoko\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|c:\\users\\mybook pro k7v\\source\\repos\\kasirtoko\\kasirtoko\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|solutionrelative:kasirtoko\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|c:\\users\\mybook pro k7v\\source\\repos\\kasirtoko\\kasirtoko\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|solutionrelative:kasirtoko\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|c:\\users\\mybook pro k7v\\source\\repos\\kasirtoko\\kasirtoko\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|solutionrelative:kasirtoko\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|c:\\users\\mybook pro k7v\\source\\repos\\kasirtoko\\kasirtoko\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|solutionrelative:kasirtoko\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|KasirToko||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|c:\\users\\mybook pro k7v\\source\\repos\\kasirtoko\\kasirtoko\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|solutionrelative:kasirtoko\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\kasirtoko\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|solutionrelative:kasirtoko\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\kasirtoko\\riwayattransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|solutionrelative:kasirtoko\\riwayattransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\kasirtoko\\produk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|solutionrelative:kasirtoko\\produk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\kasirtoko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|solutionrelative:kasirtoko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\kasirtoko\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|solutionrelative:kasirtoko\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD782F-235B-4B0A-8AAB-3E56EE333952}|KasirToko\\KasirToko.csproj|c:\\users\\mybook pro k7v\\source\\repos\\kasirtoko\\kasirtoko\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenu.resx",
+              "DocumentMoniker": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\MainMenu.resx",
+              "RelativeDocumentMoniker": "KasirToko\\MainMenu.resx",
+              "ToolTip": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\MainMenu.resx",
+              "RelativeToolTip": "KasirToko\\MainMenu.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-02-18T12:29:56.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produk.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\Produk.cs",
+              "RelativeDocumentMoniker": "KasirToko\\Produk.cs",
+              "ToolTip": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\Produk.cs [Design]",
+              "RelativeToolTip": "KasirToko\\Produk.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:20:47.182Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RiwayatTransaksi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\RiwayatTransaksi.cs",
+              "RelativeDocumentMoniker": "KasirToko\\RiwayatTransaksi.cs",
+              "ToolTip": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\RiwayatTransaksi.cs [Design]",
+              "RelativeToolTip": "KasirToko\\RiwayatTransaksi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:20:52.969Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Transaksi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\Transaksi.cs",
+              "RelativeDocumentMoniker": "KasirToko\\Transaksi.cs",
+              "ToolTip": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\Transaksi.cs [Design]",
+              "RelativeToolTip": "KasirToko\\Transaksi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:22:08.668Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\MainMenu.Designer.cs",
+              "RelativeDocumentMoniker": "KasirToko\\MainMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\MainMenu.Designer.cs",
+              "RelativeToolTip": "KasirToko\\MainMenu.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T12:29:55.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\packages.config",
+              "RelativeDocumentMoniker": "KasirToko\\packages.config",
+              "ToolTip": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\packages.config",
+              "RelativeToolTip": "KasirToko\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-18T12:29:51.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\Login.cs",
+              "RelativeDocumentMoniker": "KasirToko\\Login.cs",
+              "ToolTip": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\Login.cs [Design]",
+              "RelativeToolTip": "KasirToko\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T12:27:32.405Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\Login.cs",
+              "RelativeDocumentMoniker": "KasirToko\\Login.cs",
+              "ToolTip": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\Login.cs",
+              "RelativeToolTip": "KasirToko\\Login.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwDgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T12:27:35.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Transaksi.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\Transaksi.cs",
+              "RelativeDocumentMoniker": "KasirToko\\Transaksi.cs",
+              "ToolTip": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\Transaksi.cs",
+              "RelativeToolTip": "KasirToko\\Transaksi.cs",
+              "ViewState": "AQIAAJ8BAAAAAAAAAAAAAH4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T12:14:43.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\Admin.cs",
+              "RelativeDocumentMoniker": "KasirToko\\Admin.cs",
+              "ToolTip": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\Admin.cs",
+              "RelativeToolTip": "KasirToko\\Admin.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowE4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T12:14:31.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\Admin.cs",
+              "RelativeDocumentMoniker": "KasirToko\\Admin.cs",
+              "ToolTip": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\Admin.cs [Design]",
+              "RelativeToolTip": "KasirToko\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T12:14:29.152Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kategori.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\Kategori.cs",
+              "RelativeDocumentMoniker": "KasirToko\\Kategori.cs",
+              "ToolTip": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\Kategori.cs [Design]",
+              "RelativeToolTip": "KasirToko\\Kategori.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:17:24.616Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "KasirToko\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\Properties\\Settings.settings",
+              "RelativeToolTip": "KasirToko\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-02-18T12:10:47.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KasirToko",
+              "DocumentMoniker": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\KasirToko.csproj",
+              "RelativeDocumentMoniker": "KasirToko\\KasirToko.csproj",
+              "ToolTip": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\KasirToko.csproj",
+              "RelativeToolTip": "KasirToko\\KasirToko.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-18T12:10:42.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\MainMenu.cs",
+              "RelativeDocumentMoniker": "KasirToko\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\MainMenu.cs [Design]",
+              "RelativeToolTip": "KasirToko\\MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:20:25.927Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\MainMenu.cs",
+              "RelativeDocumentMoniker": "KasirToko\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\MainMenu.cs",
+              "RelativeToolTip": "KasirToko\\MainMenu.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAIA0wEIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:20:30.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Produk.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\Produk.cs",
+              "RelativeDocumentMoniker": "KasirToko\\Produk.cs",
+              "ToolTip": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\Produk.cs",
+              "RelativeToolTip": "KasirToko\\Produk.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAWwB0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:20:48.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\Program.cs",
+              "RelativeDocumentMoniker": "KasirToko\\Program.cs",
+              "ToolTip": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\Program.cs",
+              "RelativeToolTip": "KasirToko\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:21:04.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RiwayatTransaksi.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\RiwayatTransaksi.cs",
+              "RelativeDocumentMoniker": "KasirToko\\RiwayatTransaksi.cs",
+              "ToolTip": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\RiwayatTransaksi.cs",
+              "RelativeToolTip": "KasirToko\\RiwayatTransaksi.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAWwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:17:13.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Kategori.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\Kategori.cs",
+              "RelativeDocumentMoniker": "KasirToko\\Kategori.cs",
+              "ToolTip": "C:\\Users\\MyBook PRO K7V\\source\\repos\\KasirToko\\KasirToko\\Kategori.cs",
+              "RelativeToolTip": "KasirToko\\Kategori.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAtwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:17:25.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
